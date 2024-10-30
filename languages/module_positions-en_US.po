@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Module Positions 1.1\n"
+"POT-Creation-Date: 2013-07-19 11:56+0100\n"
+"PO-Revision-Date: 2013-07-19 12:10+0100\n"
+"Last-Translator: Philipp Kühn <kontakt@philipp-kuehn.com>\n"
+"Language-Team:  <kontakt@philipp-kuehn.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../module-positions-js.php:12 ../module-positions.php:1072
+#: ../module-positions.php:1200 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1116 Ordner/module-positions.php:1254
+msgid "title"
+msgstr "Title"
+
+#: ../module-positions-js.php:20 ../module-positions.php:1081 ../Neuer
+#: Ordner/Neuer Ordner/module-positions.php:1125
+msgid "delete"
+msgstr "Delete"
+
+#: ../module-positions-js.php:26 ../module-positions.php:1087 ../Neuer
+#: Ordner/Neuer Ordner/module-positions.php:1131
+msgid "PHP code for your template:"
+msgstr "PHP Code for your template:"
+
+#: ../module-positions-js.php:47
+msgid "delete confirm 1-1"
+msgstr "Are your sure to delete? This module position contains"
+
+#: ../module-positions-js.php:47
+msgid "delete confirm 1-2"
+msgstr "post. This post will have no module position anymore!"
+
+#: ../module-positions-js.php:49
+msgid "delete confirm 2-1"
+msgstr "Are your sure to delete? This module position contains"
+
+#: ../module-positions-js.php:49
+msgid "delete confirm 2-2"
+msgstr "posts. These posts will have no module positions anymore!"
+
+#: ../module-positions-widget.php:12 ../module-positions.php:1026
+#: ../module-positions.php:1029 ../Neuer Ordner/Neuer
+#: Ordner/module-positions-widget.php:12 Ordner/module-positions.php:1070
+#: Ordner/module-positions.php:1073
+msgid "module positions"
+msgstr "Module Positions"
+
+#: ../module-positions-widget.php:14 ../Neuer Ordner/Neuer
+#: Ordner/module-positions-widget.php:14
+msgid "widget description"
+msgstr "Simply choose a module position here"
+
+#: ../module-positions-widget.php:45 ../module-positions.php:583 ../Neuer
+#: Ordner/Neuer Ordner/module-positions-widget.php:45
+#: Ordner/module-positions.php:587
+msgid "no module position"
+msgstr "No module position available"
+
+#: ../module-positions.php:130 ../module-positions.php:587 ../Neuer
+#: Ordner/Neuer Ordner/module-positions.php:130
+#: Ordner/module-positions.php:591
+msgid "module position"
+msgstr "Module Position"
+
+#: ../module-positions.php:483 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:487
+msgid "HTML-markup"
+msgstr "HTML-Markup"
+
+#: ../module-positions.php:494 ../module-positions.php:1162 ../Neuer
+#: Ordner/Neuer Ordner/module-positions.php:498
+#: Ordner/module-positions.php:1216
+msgid "change markup description"
+msgstr ""
+"Here you can set your HTML markup. For example write <code>{{post_title}}</"
+"code> for the title <code>{{post_content}}</code> for the content. A list of "
+"all values <a target=\"_blank\" href=\"http://codex.wordpress.org/"
+"Function_Reference/get_post#Return\">you can find here</a>."
+
+#: ../module-positions.php:508 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:512
+msgid "reset"
+msgstr "Reset"
+
+#: ../module-positions.php:517 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:521
+msgid "visible in:"
+msgstr "Visible in:"
+
+#: ../module-positions.php:544 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:548
+msgid "no registered menu"
+msgstr "No registered menu available"
+
+#: ../module-positions.php:548 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:552
+msgid "menu"
+msgstr "Menu"
+
+#: ../module-positions.php:633 ../module-positions.php:749
+#: ../module-positions.php:851 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:639 Ordner/module-positions.php:778
+#: Ordner/module-positions.php:880
+msgid " all"
+msgstr " All"
+
+#: ../module-positions.php:641 ../module-positions.php:757
+#: ../module-positions.php:859 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:647 Ordner/module-positions.php:786
+#: Ordner/module-positions.php:888
+msgid " all except"
+msgstr " All except"
+
+#: ../module-positions.php:649 ../module-positions.php:765
+#: ../module-positions.php:867 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:655 Ordner/module-positions.php:794
+#: Ordner/module-positions.php:896
+msgid " selected"
+msgstr " Selected"
+
+#: ../module-positions.php:657 ../module-positions.php:773
+#: ../module-positions.php:875 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:663 Ordner/module-positions.php:802
+#: Ordner/module-positions.php:904
+msgid " none"
+msgstr " None"
+
+#: ../module-positions.php:911 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:940
+msgid "404"
+msgstr "404"
+
+#: ../module-positions.php:912 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:941
+msgid "search"
+msgstr "Search"
+
+#: ../module-positions.php:913 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:942
+msgid "archive"
+msgstr "Archive"
+
+#: ../module-positions.php:914 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:943
+msgid "tag"
+msgstr "Tag"
+
+#: ../module-positions.php:915 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:944
+msgid "author"
+msgstr "Author"
+
+#: ../module-positions.php:1016 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1060
+msgid "Content"
+msgstr "Content"
+
+#: ../module-positions.php:1017 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1061
+msgid "Content (singular)"
+msgstr "Content"
+
+#: ../module-positions.php:1018 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1062
+msgid "Edit content"
+msgstr "Edit content"
+
+#: ../module-positions.php:1055 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1099
+msgid "edit module positions"
+msgstr "Edit Module Positions"
+
+#: ../module-positions.php:1130 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1176
+msgid "add"
+msgstr "Add new"
+
+#: ../module-positions.php:1134 ../module-positions.php:1212 ../Neuer
+#: Ordner/Neuer Ordner/module-positions.php:1180
+#: Ordner/module-positions.php:1266
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../module-positions.php:1150 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1204
+msgid "settings › modulepositions"
+msgstr "Settings › Module positions"
+
+#: ../module-positions.php:1157 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1211
+msgid "standard HTML-markup"
+msgstr "Standard HTML-Markup"
+
+#: ../module-positions.php:1176 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1230
+msgid "standard sub order"
+msgstr "Order of posts"
+
+#: ../module-positions.php:1181 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1235
+msgid "sub order description"
+msgstr ""
+"Here you can set how the posts in drop-down menus should be ordered (only in "
+"admin)."
+
+#: ../module-positions.php:1194 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1248
+msgid "post_date"
+msgstr "Post Date"
+
+#: ../module-positions.php:1218 ../Neuer Ordner/Neuer
+#: Ordner/module-positions.php:1272
+msgid "donate"
+msgstr "Buy me a beer if you want to support this project!"
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:728
+msgid "select all subpages"
+msgstr "Select all subpages"
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:733
+msgid "show all posts"
+msgstr "Show all posts"
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:1185
+msgid "description title how-to"
+msgstr "How to use this Module Positions in my template?"
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:1186
+msgid "description text how-to"
+msgstr ""
+"There are two possibilities. Either you copy the PHP code you see right next "
+"to the module Positions's name directly into your template files. If "
+"necessary, you still need to wrap this code with PHP tags. The second option "
+"is to use the <a href=\"widgets.php\">Module Positions Widget</a>. If your "
+"template supports widgets, you can select in which sidebar your Module "
+"Position will be shown."
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:1187
+msgid "description title order"
+msgstr "How to change the order of my created content?"
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:1188
+msgid "description text order"
+msgstr ""
+"Yes, you can! For each created module position you see a little icon on the "
+"right. Click on it and there you can change the order of your content. "
+"Simply drag and drop."
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:1189
+msgid "description title settings"
+msgstr "Is there something more to set?"
+
+#: ../Neuer Ordner/Neuer Ordner/module-positions.php:1190
+msgid "description text settings"
+msgstr ""
+"Sure, take a look at the <a href=\"options-general.php?"
+"page=modulepositions_settings\">settings</a>!"
+
+#~ msgid "add new module position"
+#~ msgstr "Add new module position"
+
+#~ msgid "automatically generated module position title"
+#~ msgstr " module position 1"
+
+#~ msgid "Löschen"
+#~ msgstr "delete"
+
+#~ msgid "Inhalt bearbeiten"
+#~ msgstr "beeeaaaar"
